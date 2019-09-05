@@ -6,6 +6,4 @@ You may also leave suggestions or feedback.
 Found a bug or incorrect behavior of the server?
 Let us know! Please describe the bug as well as possible to us.
 
-Check out the post about update v0.1.5.3!
-
 Happy playing!
